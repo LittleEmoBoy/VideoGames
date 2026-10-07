@@ -1,0 +1,42 @@
+Bienvenido al repositorio de LittleEmoBoy. Actualmente, este proyecto se encuentra en una fase muy temprana de pre-producción y concepto. 
+
+## 📖 Sobre el Proyecto
+
+El juego es actualmente una idea en evolución. Por el momento, el enfoque principal del desarrollo está en la exploración visual, la creación de bocetos, el arte conceptual y la construcción del universo. 
+
+El bucle de juego principal (gameplay) y las mecánicas definitivas aún se están diseñando, iterando y definiendo sobre el papel, por lo que la estructura del proyecto es flexible y está sujeta a grandes cambios.
+
+* **Estado actual:** Conceptualización, Game Design preliminar y arte en bocetos.
+* **Motor gráfico:** [Ej. Unity]
+* **Género tentativo:** [Ej. Plataformas / MetroidVania ]
+
+## 🎨 Galería / Conceptos
+
+
+---
+
+## 🛠️ Reglas del Repositorio (Flujo de trabajo en GitHub)
+
+Para mantener el proyecto organizado y evitar pérdida de trabajo (especialmente crítico en el desarrollo de videojuegos con archivos binarios y de arte), seguiremos estas reglas básicas:
+
+### 1. Sistema de Ramas (Branches)
+Nunca trabajaremos directamente sobre la rama principal.
+* `main` (o `master`): Reservada **únicamente** para versiones estables, builds jugables o hitos importantes del proyecto.
+* `dev` (o `develop`): La rama de integración. Aquí se fusiona todo el trabajo diario y los nuevos conceptos.
+* `feature/[nombre-de-tarea]`: Para trabajar en algo específico. Por ejemplo: `feature/bocetos-personaje-principal` o `feature/documento-gdd`.
+
+### 2. Mensajes de Commit
+Los commits deben explicar claramente qué se ha añadido o modificado para llevar un buen registro del avance.
+* ❌ *Evitar:* "subo cosas", "arte nuevo", "fix".
+* ✅ *Recomendado:* "Añadidos bocetos iniciales de los enemigos", "Actualizado el documento de mecánicas base".
+
+### 3. Pull Requests (PR)
+Cuando termines de trabajar en tu rama `feature`, abre un *Pull Request* hacia la rama `dev`. Esto permite revisar qué archivos exactos se van a mezclar y evitar sobrescribir el trabajo de otros.
+
+### 4. El archivo `.gitignore` (¡Muy importante!)
+Antes de subir archivos del motor gráfico o de programas de diseño (Photoshop, Aseprite, etc.), asegúrate de que el archivo `.gitignore` está configurado correctamente. **No subiremos al repositorio:**
+* Archivos temporales o de caché del motor gráfico.
+* Builds compiladas del juego (exportaciones pesadas).
+* Archivos de guardado locales o configuraciones personales del editor.
+
+---
