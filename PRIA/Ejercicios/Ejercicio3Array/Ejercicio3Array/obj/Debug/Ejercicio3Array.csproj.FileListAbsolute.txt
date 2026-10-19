@@ -12,3 +12,10 @@ C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio3Array\E
 C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\obj\Debug\Ejercicio3Array.csproj.CoreCompileInputs.cache
 C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\obj\Debug\Ejercicio3Array.exe
 C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\obj\Debug\Ejercicio3Array.pdb
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\bin\Debug\Ejercicio3Array.exe.config
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\bin\Debug\Ejercicio3Array.exe
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\bin\Debug\Ejercicio3Array.pdb
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\obj\Debug\Ejercicio3Array.csproj.AssemblyReference.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\obj\Debug\Ejercicio3Array.csproj.CoreCompileInputs.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\obj\Debug\Ejercicio3Array.exe
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Array\Ejercicio3Array\obj\Debug\Ejercicio3Array.pdb
