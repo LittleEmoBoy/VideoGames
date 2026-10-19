@@ -1,0 +1,16 @@
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\bin\Debug\net10.0\Ejercicio1Funciones.exe
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\bin\Debug\net10.0\Ejercicio1Funciones.deps.json
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\bin\Debug\net10.0\Ejercicio1Funciones.runtimeconfig.json
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\bin\Debug\net10.0\Ejercicio1Funciones.dll
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\bin\Debug\net10.0\Ejercicio1Funciones.pdb
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\Ejercicio1Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\Ejercicio1Funciones.AssemblyInfoInputs.cache
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\Ejercicio1Funciones.AssemblyInfo.cs
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\Ejercicio1Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\Ejercicio1Funciones.sourcelink.json
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\Ejercicio1Funciones.dll
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\refint\Ejercicio1Funciones.dll
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\Ejercicio1Funciones.pdb
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\Ejercicio1Funciones.genruntimeconfig.cache
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\ref\Ejercicio1Funciones.dll
+C:\Users\Raul\Documents\Videojuegos\VideoGames\PRIA\Ejercicios\Ejercicio1Funciones\Ejercicio1Funciones\obj\Debug\net10.0\Ejercici.D836C5F5.Up2Date
