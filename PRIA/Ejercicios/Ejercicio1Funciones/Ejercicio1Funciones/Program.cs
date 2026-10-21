@@ -23,6 +23,7 @@ class Program
         return true;
     }
 
+    //Método de Java pero aquí se le llama función
     static int countPrimeOnRange(int begin, int end)
     {
         int count = 0;

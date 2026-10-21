@@ -10,8 +10,35 @@ public class Funcionality : MonoBehaviour, IPointerDownHandler
     private bool finJuego= false;
     string playerName="Player1";
     */
-    public int lifes;
+    private int lifes;
+    public enum Difficulty { easy, medium, hard };
 
+    [SerializeField] private Difficulty difficulty;
+
+    void start()
+    {
+        Debug.Log("Health: " + lifes);
+        difficulty = Difficulty.medium;
+    }
+
+    public void Awake()
+    {
+        switch (difficulty)
+        {
+            case Difficulty.easy:
+                lifes = 20;
+                break;
+            case Difficulty.medium:
+                lifes = 10;
+                break;
+            case Difficulty.hard:
+                lifes = 5;
+                break;
+            default:
+                lifes = 10;
+                break;
+        }
+    }
 
     public void OnPointerDown(PointerEventData eventData)
     {
