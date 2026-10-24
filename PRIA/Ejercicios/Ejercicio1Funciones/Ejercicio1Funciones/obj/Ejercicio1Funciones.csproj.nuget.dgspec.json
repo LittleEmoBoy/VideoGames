@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mañana\\Documents\\GitHub\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\Ejercicio1Funciones.csproj": {}
+    "C:\\Users\\Raul\\Documents\\Videojuegos\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\Ejercicio1Funciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mañana\\Documents\\GitHub\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\Ejercicio1Funciones.csproj": {
+    "C:\\Users\\Raul\\Documents\\Videojuegos\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\Ejercicio1Funciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mañana\\Documents\\GitHub\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\Ejercicio1Funciones.csproj",
+        "projectUniqueName": "C:\\Users\\Raul\\Documents\\Videojuegos\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\Ejercicio1Funciones.csproj",
         "projectName": "Ejercicio1Funciones",
-        "projectPath": "C:\\Users\\mañana\\Documents\\GitHub\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\Ejercicio1Funciones.csproj",
-        "packagesPath": "C:\\Users\\mañana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mañana\\Documents\\GitHub\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\obj\\",
+        "projectPath": "C:\\Users\\Raul\\Documents\\Videojuegos\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\Ejercicio1Funciones.csproj",
+        "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raul\\Documents\\Videojuegos\\VideoGames\\PRIA\\Ejercicios\\Ejercicio1Funciones\\Ejercicio1Funciones\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

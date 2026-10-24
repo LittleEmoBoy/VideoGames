@@ -10,6 +10,8 @@ using System;
 
 class Program
 {
+
+    //Método que comprueba si el número que estamos introduciendo es primo o no
     static bool isPrime(int n)
     {
         if (n < 2)
