@@ -1,0 +1,16 @@
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\bin\Debug\net10.0\Ejericio2Funciones.exe
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\bin\Debug\net10.0\Ejericio2Funciones.deps.json
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\bin\Debug\net10.0\Ejericio2Funciones.runtimeconfig.json
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\bin\Debug\net10.0\Ejericio2Funciones.dll
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\bin\Debug\net10.0\Ejericio2Funciones.pdb
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\Ejericio2Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\Ejericio2Funciones.AssemblyInfoInputs.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\Ejericio2Funciones.AssemblyInfo.cs
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\Ejericio2Funciones.csproj.CoreCompileInputs.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\Ejericio2Funciones.sourcelink.json
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\Ejericio2Funciones.dll
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\refint\Ejericio2Funciones.dll
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\Ejericio2Funciones.pdb
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\Ejericio2Funciones.genruntimeconfig.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\ref\Ejericio2Funciones.dll
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejericio2Funciones\Ejericio2Funciones\obj\Debug\net10.0\Ejericio.85268D6D.Up2Date

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ma\u00F1ana\\Documents\\GitHub\\VideoGames\\PRIA\\Ejercicios\\Ejericio2Funciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B26849-F78C-4573-8E3A-B8D22CE7D38E}|Ejericio2Funciones\\Ejericio2Funciones.csproj|c:\\users\\ma\u00F1ana\\documents\\github\\videogames\\pria\\ejercicios\\ejericio2funciones\\ejericio2funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B26849-F78C-4573-8E3A-B8D22CE7D38E}|Ejericio2Funciones\\Ejericio2Funciones.csproj|solutionrelative:ejericio2funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ma\u00F1ana\\Documents\\GitHub\\VideoGames\\PRIA\\Ejercicios\\Ejericio2Funciones\\Ejericio2Funciones\\Program.cs",
+              "RelativeDocumentMoniker": "Ejericio2Funciones\\Program.cs",
+              "ToolTip": "C:\\Users\\ma\u00F1ana\\Documents\\GitHub\\VideoGames\\PRIA\\Ejercicios\\Ejericio2Funciones\\Ejericio2Funciones\\Program.cs*",
+              "RelativeToolTip": "Ejericio2Funciones\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:10:07.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

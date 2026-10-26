@@ -1,0 +1,16 @@
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\bin\Debug\net10.0\Ejercicio3Funciones.exe
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\bin\Debug\net10.0\Ejercicio3Funciones.deps.json
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\bin\Debug\net10.0\Ejercicio3Funciones.runtimeconfig.json
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\bin\Debug\net10.0\Ejercicio3Funciones.dll
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\bin\Debug\net10.0\Ejercicio3Funciones.pdb
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\Ejercicio3Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\Ejercicio3Funciones.AssemblyInfoInputs.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\Ejercicio3Funciones.AssemblyInfo.cs
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\Ejercicio3Funciones.csproj.CoreCompileInputs.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\Ejercicio3Funciones.sourcelink.json
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\Ejercicio3Funciones.dll
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\refint\Ejercicio3Funciones.dll
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\Ejercicio3Funciones.pdb
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\Ejercicio3Funciones.genruntimeconfig.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\ref\Ejercicio3Funciones.dll
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Ejercicio3Funciones\Ejercicio3Funciones\obj\Debug\net10.0\Ejercici.B928CA3F.Up2Date
