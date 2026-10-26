@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\bin\Debug\Ejercicio4Funciones.exe.config
+C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\bin\Debug\Ejercicio4Funciones.exe
+C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\bin\Debug\Ejercicio4Funciones.pdb
+C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.exe
+C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.pdb
