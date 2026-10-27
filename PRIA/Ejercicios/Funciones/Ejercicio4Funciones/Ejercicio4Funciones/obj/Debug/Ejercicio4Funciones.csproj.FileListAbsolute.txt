@@ -5,3 +5,10 @@ C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Eje
 C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.csproj.CoreCompileInputs.cache
 C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.exe
 C:\Users\Raul\source\repos\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.pdb
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Funciones\Ejercicio4Funciones\Ejercicio4Funciones\bin\Debug\Ejercicio4Funciones.exe.config
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Funciones\Ejercicio4Funciones\Ejercicio4Funciones\bin\Debug\Ejercicio4Funciones.exe
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Funciones\Ejercicio4Funciones\Ejercicio4Funciones\bin\Debug\Ejercicio4Funciones.pdb
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Funciones\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.csproj.AssemblyReference.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Funciones\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.csproj.CoreCompileInputs.cache
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Funciones\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.exe
+C:\Users\mañana\Documents\GitHub\VideoGames\PRIA\Ejercicios\Funciones\Ejercicio4Funciones\Ejercicio4Funciones\obj\Debug\Ejercicio4Funciones.pdb
