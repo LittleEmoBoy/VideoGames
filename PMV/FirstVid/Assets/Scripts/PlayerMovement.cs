@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -7,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     public float speed;
     public float minX = -7.5f;
     public float maxX = 7.5f;
+
 
     void Start()
     {
@@ -17,8 +19,29 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         //Movimiento horizontal
-        float move = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
-        transform.Translate(move, 0, 0);
+        //float move = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
+        //transform.Translate(move, 0, 0);
+
+        // Movimiento con teclado
+        Keyboard keyboard = Keyboard.current;
+        if (keyboard != null)
+        {
+            if (keyboard.leftArrowKey.isPressed || keyboard.aKey.isPressed)
+            {
+                transform.Translate(Vector2.left * speed * Time.deltaTime);
+            }
+            else if (keyboard.rightArrowKey.isPressed || keyboard.dKey.isPressed)
+            {
+                transform.Translate(Vector2.right * speed * Time.deltaTime);
+            }
+        }
+
+        // Movimiento con gamepad
+        Gamepad gamepad = Gamepad.current;
+        if (gamepad != null && Mathf.Abs(gamepad.leftStick.ReadValue().x) > 0.1f)
+        {
+            transform.Translate(Vector2.right * gamepad.leftStick.ReadValue().x * speed * Time.deltaTime);
+        }
 
         //Limitar el movimiento izquierda derecha
         Vector2 position = transform.position;
