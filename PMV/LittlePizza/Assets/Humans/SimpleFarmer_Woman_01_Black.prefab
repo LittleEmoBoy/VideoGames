@@ -363,6 +363,7 @@ GameObject:
   - component: {fileID: 9500000}
   - component: {fileID: 811429199507108698}
   - component: {fileID: 5047192165596574656}
+  - component: {fileID: 2954689340825810162}
   m_Layer: 0
   m_Name: SimpleFarmer_Woman_01_Black
   m_TagString: Untagged
@@ -439,6 +440,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MoveForward
   speed: 5
   supLimit: 35
+--- !u!65 &2954689340825810162
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100046}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 3.0919023, z: 1}
+  m_Center: {x: 0, y: 1.5580785, z: 0}
 --- !u!1 &109178
 GameObject:
   m_ObjectHideFlags: 0
