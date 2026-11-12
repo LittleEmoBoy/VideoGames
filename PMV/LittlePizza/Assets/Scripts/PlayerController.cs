@@ -8,9 +8,44 @@ public class PlayerController : MonoBehaviour
     private float direction;
 
     public GameObject pizza;
+    private int lifes;
+    public GameManager gameManager;
+
+
     void Start()
     {
-        
+        if (gameManager != null)
+        {
+            switch (gameManager.currentDifficulty)
+            {
+                case GameManager.difficulty.Easy:
+                    lifes = 5;
+                    break;
+                case GameManager.difficulty.Medium:
+                    lifes = 3;
+                    break;
+                case GameManager.difficulty.Hard:
+                    lifes = 1;
+                    break;
+            }
+        }
+        else
+        {
+            Debug.LogWarning("GameManager not assigned in PlayerController.");
+            lifes = 3; // Default value if GameManager is not assigned
+        }
+    }
+
+    public void DecreaseLife()
+    {
+        lifes--;
+        Debug.Log("Lives remaining: " + lifes);
+        if (lifes <= 0)
+        {
+            // Handle game over logic here
+            Debug.Log("Game Over!");
+            Time.timeScale = 0f; // Pauses the game
+        }
     }
 
     // Update is called once per frame
