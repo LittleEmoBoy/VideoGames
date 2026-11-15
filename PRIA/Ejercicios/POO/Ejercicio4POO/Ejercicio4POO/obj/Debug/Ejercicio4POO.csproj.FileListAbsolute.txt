@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Ejercicio4POO\Ejercicio4POO\obj\Debug\Ejercicio4POO.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Ejercicio4POO\Ejercicio4POO\obj\Debug\Ejercicio4POO.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Ejercicio4POO\Ejercicio4POO\bin\Debug\Ejercicio4POO.exe.config
+C:\Users\Raul\source\repos\Ejercicio4POO\Ejercicio4POO\bin\Debug\Ejercicio4POO.exe
+C:\Users\Raul\source\repos\Ejercicio4POO\Ejercicio4POO\bin\Debug\Ejercicio4POO.pdb
+C:\Users\Raul\source\repos\Ejercicio4POO\Ejercicio4POO\obj\Debug\Ejercicio4POO.exe
+C:\Users\Raul\source\repos\Ejercicio4POO\Ejercicio4POO\obj\Debug\Ejercicio4POO.pdb

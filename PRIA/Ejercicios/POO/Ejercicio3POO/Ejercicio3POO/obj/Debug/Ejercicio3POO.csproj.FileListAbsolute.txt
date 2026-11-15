@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Ejercicio3POO\Ejercicio3POO\bin\Debug\Ejercicio3POO.exe.config
+C:\Users\Raul\source\repos\Ejercicio3POO\Ejercicio3POO\bin\Debug\Ejercicio3POO.exe
+C:\Users\Raul\source\repos\Ejercicio3POO\Ejercicio3POO\bin\Debug\Ejercicio3POO.pdb
+C:\Users\Raul\source\repos\Ejercicio3POO\Ejercicio3POO\obj\Debug\Ejercicio3POO.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Ejercicio3POO\Ejercicio3POO\obj\Debug\Ejercicio3POO.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Ejercicio3POO\Ejercicio3POO\obj\Debug\Ejercicio3POO.exe
+C:\Users\Raul\source\repos\Ejercicio3POO\Ejercicio3POO\obj\Debug\Ejercicio3POO.pdb
