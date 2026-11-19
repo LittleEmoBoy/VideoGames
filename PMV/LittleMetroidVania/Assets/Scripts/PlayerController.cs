@@ -5,60 +5,85 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 5f;
-    
+
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
+    private Collider2D playerCollider;
+
+    private float horizontalInput;
+    private bool jumpPressed;
+
+    void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        playerCollider = GetComponent<Collider2D>();
+    }
 
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponentInChildren<SpriteRenderer>();
     }
 
     void Update()
     {
-        float horizontalInput = ReadHorizontal();
-        rb.linearVelocity = new Vector2(horizontalInput * moveSpeed, rb.linearVelocity.y);
+        ReadInput();
     }
 
-    float ReadHorizontal()
+    void FixedUpdate()
     {
-        float direction = 0f; 
-        
+        rb.linearVelocity = new Vector2(horizontalInput * moveSpeed, rb.linearVelocity.y);
+
+        if (jumpPressed)
+        {
+            if (TouchingGround())
+            {
+                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            }
+            jumpPressed = false;
+        }
+    }
+
+    void LateUpdate()
+    {
+        if (horizontalInput > 0f)
+        {
+            spriteRenderer.flipX = false;
+        }
+        else if (horizontalInput < 0f)
+        {
+            spriteRenderer.flipX = true;
+        }
+    }
+
+    private void ReadInput()
+    {
+        horizontalInput = 0f;
+
         Keyboard keyboard = Keyboard.current;
-        
-        if (keyboard == null) return 0f; 
+        if (keyboard == null) return;
 
         if (keyboard.dKey.isPressed || keyboard.rightArrowKey.isPressed)
         {
-            direction = 1f;
-            spriteRenderer.flipX = false;
+            horizontalInput = 1f;
         }
         else if (keyboard.aKey.isPressed || keyboard.leftArrowKey.isPressed)
         {
-            direction = -1f;
-            spriteRenderer.flipX = true;
+            horizontalInput = -1f;
         }
 
-        if ((keyboard.spaceKey.wasPressedThisFrame || keyboard.wKey.wasPressedThisFrame || keyboard.upArrowKey.wasPressedThisFrame) && TouchingGround())
+        if (keyboard.spaceKey.wasPressedThisFrame ||
+            keyboard.wKey.wasPressedThisFrame ||
+            keyboard.upArrowKey.wasPressedThisFrame)
         {
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            jumpPressed = true;
         }
-
-        return direction;
     }
 
     private bool TouchingGround()
     {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position + new Vector3(0, -2, 0), Vector2.down,0.2f);
-        Collider2D colliderPlayer = GetComponent<Collider2D>();
-        Vector2 rayOrigin = new Vector2(colliderPlayer.bounds.center.x, colliderPlayer.bounds.min.y - 0.5f);
-        if (hit.collider != null && hit.collider != colliderPlayer)
-        {
-            return true;
-        }
-            return false;
+        Vector2 origin = new Vector2(playerCollider.bounds.center.x, playerCollider.bounds.min.y - 0.02f);
+        RaycastHit2D hit = Physics2D.Raycast(origin, Vector2.down, 0.1f);
 
-
+        return hit.collider != null && hit.collider.CompareTag("Ground");
     }
 }
